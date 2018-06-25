@@ -31,9 +31,15 @@ https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgb
 [XGBoost Parameters(official guide)][XGBoost Parameters(official guide)]  
 [Python API Reference (official guide)][Python API Reference (official guide)]    
 
+***  
+Kaggle  
+---  
+[A good kaggle summary][kaggle]  
+
 
 
 
 [github.io]: https://guoguanglu.github.io 'jump to github.io'  
 [XGBoost Parameters(official guide)]:https://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters  
-[Python API Reference (official guide)]:https://xgboost.readthedocs.io/en/latest/python/python_api.html
+[Python API Reference (official guide)]:https://xgboost.readthedocs.io/en/latest/python/python_api.html  
+[kaggle]:https://zhuanlan.zhihu.com/p/27424282  
