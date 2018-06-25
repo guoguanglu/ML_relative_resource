@@ -15,8 +15,8 @@ Ensembel ML
 
 **Xgboost**  
 These resources are about xgboost.  Especially， the paper is very important for learnining xgboost.  
-[XGBoost: A Scalable Tree Boostin System](#/resource/)
-https://blog.csdn.net/a819825294/article/details/51206410 
+[XGBoost: A Scalable Tree Boostin System](/paper/xgboost.pdf)  
+https://blog.csdn.net/a819825294/article/details/51206410  
 
 
 **GBM and xgboost parameter tuning**    
