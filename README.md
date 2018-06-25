@@ -10,8 +10,15 @@
 [**Back to github.io**][github.io]
 
 ***
-Ensembel ML
----  
+Ensembel ML  
+---
+
+**Xgboost**  
+These resources are about xgboost.  Especially， the paper is very important for learnining xgboost.  
+[XGBoost: A Scalable Tree Boostin System](#/resource/)
+https://blog.csdn.net/a819825294/article/details/51206410 
+
+
 **GBM and xgboost parameter tuning**    
 For beinners who are new to the GBM and xgboost algorthms, these resources can help you to understand the parameters of the algorithm and their effects, and can help you to have a good understanding of parameters tuning, it is worth learning and mastering.  
 GBM parameter tuning  
