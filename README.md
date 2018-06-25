@@ -24,9 +24,13 @@ For beinners who are new to the GBM and xgboost algorthms, these resources can h
 GBM parameter tuning  
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/  
 xgboost parameter tuning  
-https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/   
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/  easy to understand  
+XGBoost Parameters(official guide)  
+Python API Reference (official guide)  
 
 
 
 
-[github.io]: https://guoguanglu.github.io 'jump to github.io'
+[github.io]: https://guoguanglu.github.io 'jump to github.io'  
+[XGBoost Parameters(official guide)]:https://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters  
+[Python API Reference (official guide)]:https://xgboost.readthedocs.io/en/latest/python/python_api.html
