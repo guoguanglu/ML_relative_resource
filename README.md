@@ -1,6 +1,15 @@
-# ML_relative_resource
+# ML_relative_resource  
 
-****
+***
+![](/fig/log.jpg)   
+- Author: Guo Guanglu  
+- E-mail: 2360889142@qq.com
+- QQ: 2360889142  
+
+***  
+[**Back to github.io**][github.io]
+
+***
 Ensembel ML
 ---  
 For beinners who are new to the GBM and xgboost algorthms, these resources can help you to understand the parameters of the algorithm and their effects, and can help you to have a good understanding of parameters tuning, it is worth learning and mastering.  
