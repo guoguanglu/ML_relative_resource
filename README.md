@@ -18,3 +18,8 @@ parameter tuning
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/  
 xgboost parameter tuning  
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/   
+
+
+
+
+[github.io]: https://guoguanglu.github.io 'jump to github.io'
