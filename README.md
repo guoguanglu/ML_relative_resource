@@ -25,8 +25,8 @@ GBM parameter tuning
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/  
 xgboost parameter tuning  
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/  easy to understand  
-XGBoost Parameters(official guide)  
-Python API Reference (official guide)  
+[XGBoost Parameters(official guide)][XGBoost Parameters(official guide)]  
+[Python API Reference (official guide)][Python API Reference (official guide)]    
 
 
 
